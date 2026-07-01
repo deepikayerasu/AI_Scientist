@@ -1,10 +1,10 @@
-# 🧠 AI Scientist
+#  AI Scientist
 
 > AI-powered Research Paper Analysis using Retrieval-Augmented Generation (RAG), FAISS, Ollama (Qwen 2.5), and Streamlit.
 
 ---
 
-## 📌 Overview
+##  Overview
 
 AI Scientist is an intelligent research paper assistant that helps researchers and students understand scientific papers through semantic search and local Large Language Models (LLMs).
 
@@ -14,22 +14,22 @@ The system extracts metadata, summarizes the paper, performs semantic retrieval 
 
 ---
 
-# 🚀 Features
+#  Features
 
-- 📄 Upload research papers (PDF)
-- 🧠 Metadata extraction
-- 📑 Automatic summarization
-- 🔍 Semantic chunk generation
-- 📚 FAISS Vector Search
-- 🤖 Chat with research papers
-- 📊 Research analysis
-- 📂 Section detection
-- ⚡ Local LLM (Qwen 2.5 + Ollama)
-- 💻 Streamlit Interface
+- Upload research papers (PDF)
+- Metadata extraction
+- Automatic summarization
+- Semantic chunk generation
+- FAISS Vector Search
+- Chat with research papers
+- Research analysis
+- Section detection
+- Local LLM (Qwen 2.5 + Ollama)
+- Streamlit Interface
 
 ---
 
-# 🏗️ System Architecture
+# System Architecture
 
 ```
                 PDF Research Paper
@@ -64,7 +64,7 @@ The system extracts metadata, summarizes the paper, performs semantic retrieval 
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 | Technology | Purpose |
 |------------|----------|
@@ -79,7 +79,7 @@ The system extracts metadata, summarizes the paper, performs semantic retrieval 
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```
 AI_Scientist/
@@ -113,7 +113,7 @@ AI_Scientist/
 
 ---
 
-# ⚙️ Installation
+# Installation
 
 Clone the repository
 
@@ -149,7 +149,7 @@ streamlit run app.py
 
 ---
 
-# 💬 Example Questions
+# Example Questions
 
 - What problem does this paper solve?
 - What methodology is proposed?
@@ -162,7 +162,7 @@ streamlit run app.py
 
 ---
 
-# 📈 Future Improvements
+# Future Improvements
 
 - Multi-paper comparison
 - Research gap detection
@@ -173,7 +173,7 @@ streamlit run app.py
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Deepika Yerasu**
 
